@@ -25,7 +25,7 @@ jitter that may occur.
 
 Your obligations:
 
-- run exe or shell
+- run shell
 - set mouse report rate to 125 per second (assuming your current rate is 1000c/s 
 and your mouse DPI is 3200, set your DPI to 800 to revert the sensitivity)
 - Ethernet
